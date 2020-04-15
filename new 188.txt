@@ -1,0 +1,19 @@
+
+
+var configCreateApp = {
+    LUIS_subscriptionKey: 956aceba50b34037b12529ed5be4f158,
+    LUIS_versionId: 0d63dac9-7021-44f8-ac06-ab7341d0f776,
+    appName: Utterance_testing,
+    culture: "en-us",
+    uri: "https://westus.api.cognitive.microsoft.com/luis/api/v2.0/apps/"
+};
+
+
+
+https://eu.community.samsung.com/t5/Galaxy-S9-S9/App-OM-Customize/td-p/611023
+
+https://www.youtube.com/watch?v=RldNFAPxzjg
+
+https://www.youtube.com/watch?v=92OSTvW0Ge8
+
+
